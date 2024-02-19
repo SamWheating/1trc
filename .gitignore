@@ -9,6 +9,8 @@ target/*
 .metals/*
 .vscode/*
 .bsp/*
+dumps/*
+project/project/*
 
 # Build artifacts etc
 project/target/*
